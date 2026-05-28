@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Agent Fleet">
+  <defs>
+    <linearGradient id="g" x1="10" y1="8" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="52" height="52" rx="14" fill="url(#g)"/>
+  <path d="M19 18h20l7 7v21H19V18z" fill="white" opacity=".92"/>
+  <path d="M38 18v8h8" fill="#CBD5E1"/>
+  <path d="M24 32h16M24 39h11" stroke="#4F46E5" stroke-width="3" stroke-linecap="round"/>
+</svg>

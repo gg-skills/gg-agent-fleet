@@ -1,0 +1,11 @@
+interface:
+  display_name: GG → Agent Fleet → Task Packs
+  short_description: Generate runnable Agent Fleet handoff prompt packs and shell runners.
+  icon_small: ./assets/icon-small.svg
+  icon_large: ./assets/icon-large.png
+  brand_color: '#6366f1'
+  default_prompt: >-
+    Use $agent-fleet (agent-fleet) to generate bounded Agent Fleet task prompts and runnable
+    Bash commands from the current request, with exact scopes, no-commit/no-push constraints, log
+    capture, and final verification. Reference agent-fleet/SKILL.md when cross-referencing this
+    skill.
